@@ -1,5 +1,16 @@
+# Rust
 /target
+
+# Logs
 *.log
 *.txt
+
+# Environment
 .env
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Node (if ever used)
+node_modules/
