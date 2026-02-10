@@ -211,5 +211,5 @@ Malicious requests generate a detailed JSON log entry for forensic analysis.
 
 ---
 
-**Author**: [Your Name]
+**Author**: [Chandan Barman]
 **License**: MIT
